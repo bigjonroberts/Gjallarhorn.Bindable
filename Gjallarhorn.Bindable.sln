@@ -77,7 +77,8 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "ElmInspiredXF", "samples\El
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElmInspiredOneXF.Android", "samples\ElmInspiredOne\Xamarin\ElmInspiredOneXF.Android\ElmInspiredOneXF.Android.csproj", "{C2DF4F07-CF88-4880-AC7C-F2D50DD2220F}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Gjallarhorn.ReferenceDocumentation", "C:\Users\rmawston\Source\Repos\Gjallarhorn.Bindable\src\Gjallarhorn.ReferenceDocumentation\Gjallarhorn.ReferenceDocumentation.fsproj", "{5ACE0621-55CC-4DCD-A159-D7AB7D3057C6}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Gjallarhorn.ReferenceDocumentation", "src\Gjallarhorn.ReferenceDocumentation\Gjallarhorn.ReferenceDocumentation.fsproj", "{5ACE0621-55CC-4DCD-A159-D7AB7D3057C6}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElmInspiredOneXF.iOS", "samples\ElmInspiredOne\ElmInspiredOneXF.iOS\ElmInspiredOneXF.iOS.csproj", "{B94E6239-AE19-4A43-923C-AB464EFFD9C3}"
 EndProject
 Global

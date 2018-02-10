@@ -154,6 +154,7 @@ Target "RunTests" (fun _ ->
         { p with
             ToolPath = @".\packages\test\NUnit.ConsoleRunner\tools\nunit3-console.exe"
             TimeOut = TimeSpan.FromMinutes 20. })
+)            
 
 #if MONO
 #else
